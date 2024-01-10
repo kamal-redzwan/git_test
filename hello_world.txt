@@ -1,1 +1,4 @@
 Hello Git!
+
+Git commit message editor in VSCode ->
+git config --global core.editor "code --wait"
